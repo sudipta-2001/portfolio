@@ -7,16 +7,16 @@ const Projects = () => {
       <h1 className="text-2xl md:text-4xl text-white font-bold">Projects</h1>
       <div className="py-12 px-8 flex flex-wrap gap-5">
         <ProjectCard
-          title="Blogging Website"
-          main="this is a bloggin website created in next js and used some component library used some component library"
+          title="Online Camera App"
+          main=" Built a Online-Camera with React and JavaScript for click photos, Implemented with Next.JS and vercel."
         />
         <ProjectCard
-          title="Youtue Clone"
-          main="this is a bloggin website created in next js and used some component library used some component library"
+          title="Data Analytics: Real Estate"
+          main="Build a Data Analytics use Real Estate data,Designed with Python.For stores objects use Amazon Web ServicesCreated the database in Snowflake."
         />
         <ProjectCard
-          title="Netflix Clone"
-          main="this is a blogging website created this ijsdjf l in next js and used some component library used some component library"
+          title="Automated Teller Machine"
+          main="Built a ATM system by use NetBeans and Java,For storing Data use mysql workbench 8.0 ce."
         />
       </div>
     </div>

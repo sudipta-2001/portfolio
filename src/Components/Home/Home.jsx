@@ -18,7 +18,7 @@ const Home = () => {
             <a href="#Footer">Contact Me</a>
           </button>
           <button className="mt-5 md:md-10 text-white py02 px-3 text-sm md:text-lg md:py-2 md:px-4 hover:opacity-85 duration-300 hover:scale-105 font-semibold rounded-3xl bg-[#52707B]">
-            <a href="https://drive.google.com/file/d/1LZe5OxzKKizJFZ1EQblzFxauVMse-RM-/view?usp=sharing">Download CV</a>
+            <a href="https://drive.google.com/file/d/1LZe5OxzKKizJFZ1EQblzFxauVMse-RM-/view?usp=sharing" target="new">Download CV</a>
           </button>
         </div>
       </div>
