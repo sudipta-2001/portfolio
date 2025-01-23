@@ -53,7 +53,7 @@ const Experience = () => {
             {/* <FaGoogle color="#4285F4" size={50} /> */}
             <span className="text-white">
               <h2 className="leading-tight">
-              Intern as a software developer, in 'GigAlphabet Private Limited'
+                Intern as a software developer, in 'GigAlphabet Private Limited'
               </h2>
               <p className="text-sm leading-tight font-thin">
                 Sept 2024 - Present
@@ -63,7 +63,6 @@ const Experience = () => {
               </ul>
             </span>
           </div>
-          
         </div>
       </div>
     </div>
